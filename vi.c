@@ -1,1 +1,7 @@
-provet	
+prove
+new syring
+d
+main ()
+{
+}
+
